@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">OfficeMisdeeds</string>
+    <string name="label_misdeed_title">Title</string>
+    <string name="label_misdeed_solved">Solved</string>
+    <string name="label_misdeed_details">Details</string>
+    <string name="hint_misdeed_title">Enter the misdeed\'s title</string>
+    <string name="button_first">First</string>
+    <string name="button_last">Last</string>
+    <string name="date_selector_title">Date of misdeed</string>
+    <string name="new_misdeed">New Misdeed</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d misdeeds</string>
+    <string name="delete_misdeed">Delete Misdeed</string>
+    <string name="no_misdeed_added">No misdeed added</string>
+    <string name="misdeed_choose_suspect">Choose Suspect</string>
+    <string name="misdeed_report_button">Send Misdeed Report</string>
+    <string name="misdeed_report">%1$s! The misdeed had happened on %2$s %3$s, and %4$s</string>
+    <string name="report_solved">The misdeed is solved</string>
+    <string name="report_unsolved">The misdeed is not solved</string>
+    <string name="report_suspect">the suspect is %s</string>
+    <string name="report_no_suspect">there is no suspect</string>
+    <string name="report_subject">OfficeMisdeeds Misdeed Report</string>
+    <string name="send_report">Report about the misdeed via</string>
+</resources>
